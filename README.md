@@ -1,3 +1,4 @@
 # Code
 
-Knowledge discovery and dengue forecasting applied in a four-year dataset collected at Natal, RN – Brazil
+Data-Driven Computational Intelligence Applied to Forecast Dengue Outbreaks: a
+case study in the city of Natal, RN- Brazil
