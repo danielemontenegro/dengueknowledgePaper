@@ -1,13 +1,11 @@
 # Code
 
-Data-Driven Computational Intelligence Applied to Forecast Dengue Outbreaks: a
-case study in the city of Natal, RN- Brazil
+## Data-Driven Computational Intelligence Applied to Dengue Outbreak Forecasting: a case study at the scale of the city of Natal, RN-Brazil
 
-License: Attribution-NonCommercial-ShareAlike 4.0 International
 
-Paper Dengue
+### License: Attribution-NonCommercial-ShareAlike 4.0 International
 
-For the code in the folder ‘EDA’
+#### For the code in the folder ‘EDA’
 PlotHeatMap_District.m
 
 This code allows to produce:
@@ -33,7 +31,7 @@ TimeSeries_CorrCoeff_AggCity1YrSld.m
 
 Computes time lag and correlation coefficient between Ovitrap data and Dengue occurrence. The parameters are computed for 1 Yr slides. See Figure 4 description.
 
-For the code in the folder ‘DL_Models’
+#### For the code in the folder ‘DL_Models’
 ModelsPerform_1DLSTM_01.m
 
 Plot the performance of LSTM models trained for dengue incidence forecasting. See Figure 2 and Figure 3 descriptions for more details. 
@@ -47,7 +45,7 @@ i-4,i-3,i-2 previous samples (4:2 past samples),
 i-5,i-4,i-3 previous samples (5:3 past samples),
 i-6,i-5,i-4 previous samples (6:4 past sample). 
 
-Data
+## Data
 
 DADOS GERAIS_01.xlsx
 We use the sheet ‘Renda por Bairro’ for socioeconomic data.
